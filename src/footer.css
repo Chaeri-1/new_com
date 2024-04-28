@@ -1,0 +1,23 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #000814;
+  color: aliceblue;
+}
+
+.contact-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.contact-links button {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  background-color: aliceblue;
+  border-radius: 8px;
+}

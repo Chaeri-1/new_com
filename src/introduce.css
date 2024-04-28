@@ -1,0 +1,34 @@
+.introduce {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  margin: 0;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #000814;
+  background-color: aliceblue
+}
+
+.introduce-1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.introduce-keywords {
+  display: flex;
+  width: 800px;
+  justify-content: space-around;
+  margin-bottom: 80px;
+}
+
+.introduce-keyword {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+  transition: 0.5s;
+}
